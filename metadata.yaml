@@ -1,5 +1,5 @@
 homepage: "https://www.demirjasarevic.com/"
 documentation: "https://github.com/demirj/gtm-server-simple-http-request-template/blob/main/README.md"
 versions:
-  - sha: aba46cea1d788510d11b4d59d15119b88e82d2f6
+  - sha: fc53e7d58ede2e2fd3f806d0702dbf41918db9f6
     changeNotes: Initial release.
