@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Simple HTTP Request",
+  "categories": ["TAG_MANAGEMENT", "ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
